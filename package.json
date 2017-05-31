@@ -1,7 +1,9 @@
 {
   "name": "toml-cli",
-  "bin": {"toml": "./index.js"},
-  "version": "1.0.0",
+  "bin": {
+    "toml": "./index.js"
+  },
+  "version": "1.0.1",
   "description": "accept toml on stdin, output json on stdout",
   "main": "index.js",
   "scripts": {},
