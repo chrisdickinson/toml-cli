@@ -3,7 +3,7 @@
   "bin": {
     "toml": "./index.js"
   },
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "accept toml on stdin, output json on stdout",
   "main": "index.js",
   "scripts": {},
